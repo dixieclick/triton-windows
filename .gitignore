@@ -102,3 +102,4 @@ docs/sg_execution_times.rst
 /main.*
 /*.mlir
 /wheelhouse
+AGENTS.override.md
